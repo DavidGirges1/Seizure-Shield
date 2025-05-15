@@ -26,7 +26,7 @@
 - GPS module
 
 ### 💻 Software & Platforms
-- **C Programming** – for ESP32 firmware
+- **C Programming** – for ESP32 firmware and programming sensors conditions
 - **WhatsApp API** – for automated alert messages with real-time links
 - **ThingSpeak** – for live sensor data visualization via web charts
 - **Web App** – built using HTML and Bootstrap to display:
