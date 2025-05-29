@@ -1,0 +1,58 @@
+
+.x, .y, .z, .gsr, .temp{
+    position: relative;
+    text-align: center;
+}
+
+nav{
+    background-color: #0F1035;
+}
+
+
+
+#intro{
+    background-image: url("./assets/background.png");
+    background-size: 100%;
+}
+
+h2{
+    color: #1c1e4e
+}
+
+h3{
+    color: #365486 !important
+}
+
+
+#sensors{
+    background-color: #EEF5FF;
+}
+
+
+svg{
+
+    color:#172437;
+    width:40px;
+    height: 40px;
+}
+
+h4{
+    color: #365486 !important
+
+}
+
+
+.typing-effect {
+    overflow: hidden;
+    border-right: 0.15em solid #0cc0df; /* Color of the typing cursor */
+    white-space: nowrap;
+    display: inline-block;
+  }
+
+footer{
+    background-color: #0F1035;
+    li{
+        color:white;
+    }
+}
+
