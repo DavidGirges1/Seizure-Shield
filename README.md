@@ -39,5 +39,8 @@
 
 For detailed insights on the testing methodology and scientific background, refer to:
 
-- [`poster.pdf`](./poster.pdf)
-- [`portfolio.pdf`](./portfolio.pdf)
+- [`Seizre Shield Poster.pdf`](https://github.com/DavidGirges1/Seizure-Shield/blob/main/seizure%20shield%20fullsize%20poster.pdf)
+- [`Seizure Shield Portfolio.pdf`](https://github.com/DavidGirges1/Seizure-Shield/blob/main/seizure%20shield%20portoflio.pdfx)
+
+
+**© Copyreserved for David E. Girges – Tony Ashraf – Paula Alfons**
